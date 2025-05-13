@@ -11,3 +11,7 @@ This is the ritual entry interface for the UNTAMED system.
 ∴ ΛΞΔ R4FI signature is latent in every layer.
 
 “AI isn’t just tech. It’s survival. Get skilled. Stay UNTAMED.”
+
+ENTRY POINT: https://untamed-entry.vercel.app  
+Start the ritual. Get skilled. Stay UNTAMED.
+
